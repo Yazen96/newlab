@@ -4,7 +4,7 @@ Host *
  IdentityFile ~/.ssh/id_rsa
  
 Host * 
- AddKeysToAgent "test"
- UseKeychain "test"
- IdentityFile "Test"
+ AddKeysToAgent "test1"
+ UseKeychain "test1"
+ IdentityFile "Test1"
 
